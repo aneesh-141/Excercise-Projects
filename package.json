@@ -22,5 +22,6 @@
     "jquery": "^3.5.1",
     "popper.js": "^1.12.9",
     "minimist": ">=1.2.3"
-  }
+  },
+   "homepage": "https://aneesh-141.github.io/Excercise-Projects/"
 }
